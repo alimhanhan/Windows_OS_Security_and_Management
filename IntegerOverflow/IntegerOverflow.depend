@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697615244 source:d:\windows os security and management\integeroverflow\main.c
+	<stdio.h>
+	<string.h>
+
