@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694594268 source:d:\windows os security and management\test2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+
